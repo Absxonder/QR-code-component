@@ -1,0 +1,28 @@
+body {
+    background: #D6E3EF;
+}
+
+.component {
+    background: white;
+    margin: 150px auto;
+    padding: 10px 10px 20px 10px;
+    width: 240px;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+img {
+    border-radius: 10px;
+    width: 240px;
+}
+
+.heading {
+    font-size: 10px;
+}
+
+.paragraph {
+    font-size: 15px;
+    color: grey
+}
