@@ -33,3 +33,8 @@ This project helped me practice:
 - Controlling element width and height
 - Styling images
 - Working with fonts, colors, and spacing
+
+## Screenshot
+
+<img width="1592" height="1073" alt="image" src="https://github.com/user-attachments/assets/71c27973-f74b-408d-b69e-5259cfc7e089" />
+
